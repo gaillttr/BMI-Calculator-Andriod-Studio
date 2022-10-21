@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMI Assignment</string>
+    <string name="title_text">BMI CALCULATOR</string>
+    <string name="weight">Weight (kilogram)</string>
+    <string name="height">Height (centemeter)</string>
+    <string name="kilogram">- -</string>
+    <string name="centimeter">- -</string>
+    <string name="bmi_title">BMI :</string>
+    <string name="bmi_result">- -</string>
+    <string name="status_text">STATUS :</string>
+    <string-array name="status_result">- -
+        <item>Underweight</item>
+        <item>Normal</item>
+        <item>OverWeight (Class |)</item>
+        <item>Obesity (Class ||)</item>
+        <item>Extreme Obesity (Class |||)</item>
+    </string-array>
+    <string name="button_cal">calculate</string>
+    <string name="history"></string>
+    <string name="col_date">DATE</string>
+    <string name="col_weight">WEIGHT</string>
+    <string name="col_bmi">BMI</string>
+    <string name="col_status">STATUS</string>
+    <string name="history_page">BMI HISTORY</string>
+    <string name="history_res"></string>
+</resources>

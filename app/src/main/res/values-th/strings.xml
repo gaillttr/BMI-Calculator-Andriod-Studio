@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMI Assignment</string>
+    <string name="title_text">ค่าดัชนีมวลกาย</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="kilogram">- -</string>
+    <string name="centimeter">- -</string>
+    <string name="bmi_title">ค่าดัชนีมวลกาย :</string>
+    <string name="bmi_result">- -</string>
+    <string name="status_text">อยู่ในเกณฑ์ :</string>
+    <string-array name="status_result">- -
+        <item>น้ำหนักน้อย/ผอม</item>
+        <item>ปกติ</item>
+        <item>ท้วม/โรคอ้วนระดับ 1</item>
+        <item>อ้วน/โรคอ้วนระดับ 2</item>
+        <item>อ้วนมาก/โรคอ้วนระดับ 3</item>
+    </string-array>
+    <string name="button_cal">คำนวณ</string>
+    <string name="history"></string>
+    <string name="col_date">วันที่</string>
+    <string name="col_weight">น้ำหนัก</string>
+    <string name="col_bmi">ค่าดัชนีมวลกาย</string>
+    <string name="col_status">อยู่ในเกณฑ์</string>
+    <string name="history_page">ประวัติค่าดัชนีมวลกาย</string>
+    <string name="history_res"></string>
+</resources>
